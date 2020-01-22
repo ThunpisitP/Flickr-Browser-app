@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Flickr Browers</string>
+    <string name="title_activity_search">SearchActivity</string>
+    <string name="title_activity_photo_details">Photo Details</string>
+</resources>
